@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.google.com/schemas/sitemap/0.84"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84
+                      http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
+ <url>
+  <loc>http://setu04.ima.intra/site/sad/0.1.4/index.html</loc>
+  <lastmod>2007-07-03T01:41:59Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://setu04.ima.intra/site/sad/0.1.5/index.html</loc>
+  <lastmod>2007-08-22T01:58:43Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://setu04.ima.intra/site/sadClient/0.1.4/index.html</loc>
+  <lastmod>2007-07-03T01:41:03Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://setu04.ima.intra/site/sadClient/0.1.5/index.html</loc>
+  <lastmod>2007-08-22T01:57:48Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://setu04.ima.intra/site/sadEAR/0.1.4/index.html</loc>
+  <lastmod>2007-07-03T01:42:33Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://setu04.ima.intra/site/sadEAR/0.1.5/index.html</loc>
+  <lastmod>2007-08-22T01:59:09Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+</urlset>

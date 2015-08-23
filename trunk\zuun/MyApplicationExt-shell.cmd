@@ -1,0 +1,1 @@
+@java -cp "%~dp0\src;%~dp0\bin;C:/TestMaven/gwt-windows-1.4.60/gwt-user.jar;C:/TestMaven/gwt-windows-1.4.60/gwt-dev-windows.jar;%~dp0/lib/gwtext.jar" com.google.gwt.dev.GWTShell -out "%~dp0\www" %* com.gwtext.sample.showcase.Showcase/Showcase.html
